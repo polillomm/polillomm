@@ -6,7 +6,8 @@ I love learning new things through trial and error, to not only correct my own m
 **A few things about me:**<br>
 👾 I love games<br>
 👨‍💻 I like to spend time programming what comes to my mind<br>
-🎥 For me, movies and series are more than a hobby <br>
+🎥 For me, movies and series are more than a hobby<br>
+📚 Passionate about comics, anime and manga<br>
 💬 I love to talk, having a circle of friends is essential for me<br>
 👨‍👩‍👦 I'm a family guy, they've always been the best part of me<br>
 🐢 I have a tortoise, Tuty<br>
