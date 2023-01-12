@@ -14,8 +14,6 @@ I love learning new things through trial and error, to not only correct my own m
 
 It's a great pleasure to meet you!
 
-![github-stats](https://github-readme-stats.vercel.app/api?username=matheusmpolillo&show_icons=true&theme=tokyonight&hide_border=true&text_color=FFFFFF)<br>
-
 [![linkedin](https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=70A5FD)](https://www.linkedin.com/in/polillo/)
 [![github](https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=70A5FD)](https://github.com/matheusmpolillo/)
 [![gitlab](https://img.shields.io/badge/GitLab-1A1B27?style=for-the-badge&logo=gitlab&logoColor=70A5FD)](https://gitlab.com/matheusmpolillo/)
